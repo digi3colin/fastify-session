@@ -1,7 +1,7 @@
 {
-  "name": "fastify-session",
+  "name": "@komino/fastify-session",
   "version": "3.3.0",
-  "description": "a session plugin for fastify",
+  "description": "fork from a session plugin for fastify",
   "main": "lib/fastifySession.js",
   "scripts": {
     "unit": "ava test/*.test.js",
